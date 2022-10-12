@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1200/1*TVdM3xU44wzY4T_vvbp-jQ.png)]
+![MasterHead](https://miro.medium.com/max/1200/1*TVdM3xU44wzY4T_vvbp-jQ.png)
 <h1 align="center">Hi 👋, I'm MUHAMMED SALAHUDDEEN</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="300" src="https://process.filestackapi.com/cache=expiry:max/resize=width:1050/efbSR18hT5uRKuo0zoMA"/> 
