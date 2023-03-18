@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 <br/>
-
+<img align="right" alt="coding" width="300" src="https://process.filestackapi.com/cache=expiry:max/resize=width:1050/efbSR18hT5uRKuo0zoMA"/> 
 - 🔭 I’m currently working on college project<br>
 - 👯 I’m looking to collaborate on Open Source Project<br>
 - 🌱 I’m currently learning react<br>
