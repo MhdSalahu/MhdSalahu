@@ -5,11 +5,11 @@
 ## <img src="./assets/Man%20Technologist%20Light%20Skin%20Tone.png" width="35"/> About Me
 <br/>&nbsp;&nbsp;
 <img align="right" alt="coding" width="300" src="./assets/coding.gif"/> &nbsp;&nbsp;
-- 🔭 I’m currently working on college project<br>
-- 👯 I’m looking to collaborate on Open Source Project<br>
-- 🌱 I’m currently learning react<br>
-- 💬 Ask me about flutter, android, php .<br>
-- 📫 How to <a href="mailto:salahu.m4u@gmail.com">reach me</a><br>
+- <img src="./assets/telescope.gif" width="30"/> I’m currently working on college project<br>
+- <img src="./assets/collaborate.gif" width="30"/> I’m looking to collaborate on Open Source Project<br>
+- <img src="./assets/seedling.gif" width="30"/> I’m currently learning react<br>
+- <img src="./assets/ask-me.png" width="30"/> Ask me about flutter, android, php .<br>
+- <img src="./assets/mail.gif" width="30"/> How to <a href="mailto:salahu.m4u@gmail.com">reach me</a><br>
 - ⚡ Fun fact   I like games
 <br><br>
 
