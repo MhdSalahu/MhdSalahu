@@ -31,7 +31,7 @@
 <br>
 
 <a href = "https://twitter.com/M_Salahu_ "><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.linkedin.com/in/muhammed-salahuddeen-516130230/"><img src="https://img.icons8.com/fluency/1x/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/muhammad-salahudheen-516130230"><img src="https://img.icons8.com/fluency/1x/linkedin.png"/></a>
 <a href = "https://www.instagram.com/_m_salahu "><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <br><br>
 
