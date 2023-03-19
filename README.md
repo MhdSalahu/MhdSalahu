@@ -30,9 +30,9 @@
 ## <img src="./assets/spinning-globe-animated.gif" width="25"> Socials
 <br>
 
-<a href = "https://twitter.com/ "><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/M_Salahu_ "><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.linkedin.com/in/muhammed-salahuddeen-516130230/"><img src="https://img.icons8.com/fluency/1x/linkedin.png"/></a>
-<a href = "https://www.instagram.com/ "><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/_m_salahu "><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <br><br>
 
 
@@ -75,7 +75,7 @@
 ## <img src="./assets/Dove.png" width="30"> Latest Tweet
 
 
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/M_Salahu_)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=M_Salahu_&theme=discord_old_blurple&icon=user&border=false"/></a>
 
 <br/><br/>
 
