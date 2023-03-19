@@ -99,7 +99,7 @@
 ## Loved my work? <img src="assets/Heart on Fire.png" width="30">
 <br>
 
-<img src="assets/Star.png" width="25"/>&nbsp;[ Give a star to this project](https://github.com/MhdSalahu/MhdSalahu) <br/>
+<img src="assets/Star.png" width="25"/>&nbsp;[Give a star to this project](https://github.com/MhdSalahu/MhdSalahu) <br/>
 <img src="assets/Folded Hands Light Skin Tone.png" width="25"/>&nbsp;[Follow me on GitHub](https://github.com/MhdSalahu)<br/>
 <img src="assets/Hot Beverage.png" width="25"> [Buy me a coffee](https://www.buymeacoffee.com/salahu4u) (Tired of drinking Tea)
 
