@@ -1,10 +1,10 @@
 
-<p align="center"><img src="https://techaddanews.com/wp-content/uploads/2021/03/wordpress-development-1.png" height="250"></a></p>
+<p align="center"><img src="./assets/developer.png" height="250"></a></p>
 <h1 align="center">Hi <img src="./assets/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="35"  />, I'm Muhammad Salahudheen</h1>
 
 ## <img src="./assets/Man%20Technologist%20Light%20Skin%20Tone.png" width="35"/> About Me
-<br/>
-<img align="right" alt="coding" width="300" src="https://process.filestackapi.com/cache=expiry:max/resize=width:1050/efbSR18hT5uRKuo0zoMA"/> 
+<br/>&nbsp;&nbsp;
+<img align="right" alt="coding" width="300" src="./assets/coding.gif"/> &nbsp;&nbsp;
 - 🔭 I’m currently working on college project<br>
 - 👯 I’m looking to collaborate on Open Source Project<br>
 - 🌱 I’m currently learning react<br>
