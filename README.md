@@ -8,9 +8,9 @@
 - <img src="./assets/telescope.gif" width="30"/> I’m currently working on college project<br>
 - <img src="./assets/collaborate.gif" width="30"/> I’m looking to collaborate on Open Source Project<br>
 - <img src="./assets/seedling.gif" width="30"/> I’m currently learning react<br>
-- <img src="./assets/ask-me.png" width="30"/> Ask me about flutter, android, php .<br>
+- <img src="./assets/ask_me.gif" width="20"/> Ask me about flutter, android, php .<br>
 - <img src="./assets/mail.gif" width="30"/> How to <a href="mailto:salahu.m4u@gmail.com">reach me</a><br>
-- ⚡ Fun fact   I like games
+- <img src="./assets/thunder.gif" height="20"/> Fun fact   I like games
 <br><br>
 
 ## <img src="./assets/Eyes.png" width="25"/> Views and <img src="./assets/Blue%20Heart.png" width="25"/> Followers
