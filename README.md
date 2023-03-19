@@ -9,13 +9,13 @@
 - <img src="./assets/collaborate.gif" width="30"/> I’m looking to collaborate on Open Source Project<br>
 - <img src="./assets/seedling.gif" width="30"/> I’m currently learning react<br>
 - <img src="./assets/ask_me.gif" width="20"/> Ask me about flutter, android, php .<br>
-- <img src="./assets/mail.gif" width="30"/> How to <a href="mailto:salahu.m4u@gmail.com">reach me</a><br>
+- <img src="./assets/mail.gif" width="30"/> How to <a href="mailto:salahu.m4u@hotmail.com">reach me</a><br>
 - <img src="./assets/thunder.gif" height="20"/> Fun fact   I like games
 <br><br>
 
 ## <img src="./assets/Eyes.png" width="25"/> Views and <img src="./assets/Blue%20Heart.png" width="25"/> Followers
 <br>
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/MhdSalahu">
     <img src="https://komarev.com/ghpvc/?username=mhdsalahu">
 </a>
 <a href="https://github.com/mhdsalahu?tab=followers"><img src="https://img.shields.io/github/followers/mhdsalahu?label=Followers&style=social" alt="GitHub Badge"></a>
