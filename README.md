@@ -59,7 +59,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=mhdsalahu&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mhdsalahu&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhdsalahu&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-[![Salahu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mhdsalahu&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Salahu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mhdsalahu&theme=tokyo-night)](https://github.com/MhdSalahu?tab=repositories)
 <br><br>
 
 ## <img src="./assets/trophies.gif" width="30"/> GitHub Trophies
@@ -75,7 +75,7 @@
 ## <img src="./assets/Dove.png" width="30"> Latest Tweet
 
 
-<a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=M_Salahu_&theme=discord_old_blurple&icon=user&border=false"/></a>
+<a href="https://twitter.com/M_Salahu_"><img src="https://gtce.itsvg.in/api?username=M_Salahu_&theme=discord_old_blurple&icon=user&border=false"/></a>
 
 <br/><br/>
 
