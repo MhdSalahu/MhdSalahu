@@ -56,9 +56,9 @@
 ## <img src="./assets/graph-animation.gif" width="30"/> GitHub Stats:
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=mhdsalahu&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=mhdsalahu&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mhdsalahu&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhdsalahu&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mhdsalahu&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 [![Salahu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mhdsalahu&theme=tokyo-night)](https://github.com/MhdSalahu?tab=repositories)
 <br><br>
 
